@@ -1,0 +1,44 @@
+[33mcommit ddf3b43e915a9bdd8ad19c127184ccf5884f04fe[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: b25cdca 989cbbc
+Author: = <=>
+Date:   Fri Dec 18 16:37:59 2020 +0900
+
+    Merge branch 'test_branch' into master
+
+[33mcommit b25cdcaa87cb080ec4d77fa1911458b0b21db508[m
+Author: = <=>
+Date:   Fri Dec 18 16:36:07 2020 +0900
+
+    Revert "master branch test"
+    
+    This reverts commit 626492c076a3bb097a8aa3dd244e700552a0e629.
+
+[33mcommit 626492c076a3bb097a8aa3dd244e700552a0e629[m
+Author: OHBYEONGHUN <obh0422@gmai.com>
+Date:   Fri Dec 18 16:33:28 2020 +0900
+
+    master branch test
+
+[33mcommit 989cbbcb427bf9bb2fbc36df8a2870ffed461c60[m
+Author: OHBYEONGHUN <obh0422@gmail.com>
+Date:   Fri Dec 18 16:18:09 2020 +0900
+
+    branch first commit
+
+[33mcommit 46fe877e1ca90129caa8cbddfca51d6742fd8fd5[m
+Author: = <=>
+Date:   Fri Dec 18 15:38:03 2020 +0900
+
+    teste file
+
+[33mcommit e6a035bd11133fe8fac041767158b11fc3e634ac[m
+Author: OHBYEONGHUN <obh0422@gmail.com>
+Date:   Fri Dec 18 11:34:35 2020 +0900
+
+    edit README.md
+
+[33mcommit 2af55c00aa7010f2425af3a5d2ad1dd7fdd710ea[m
+Author: OHBYEONGHUN <obh0422@gmail.com>
+Date:   Fri Dec 18 11:09:33 2020 +0900
+
+    add readme.md
