@@ -12,4 +12,6 @@ label3 = Label(window, text = "공부중입니다", bg ="magenta", width = 20, h
 
 
 window.mainloop()
+#파이썬 sql 연동
+
 
