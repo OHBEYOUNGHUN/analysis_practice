@@ -18,11 +18,12 @@ df_date = df[['date']]
 df_date.head()
 df_yhat = df[['forecast']]
 
-
+type(df)
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         self.centralwidget = QtWidgets.QWidget(MainWindow)
+        self.centralwidget.setGeometry(300,500)
         self.centralwidget.setObjectName("centralwidget")
         self.label_title = QtWidgets.QLabel(self.centralwidget)
         self.label_title.setGeometry(QtCore.QRect(20, 30, 310, 51))
@@ -81,7 +82,9 @@ class Ui_MainWindow(object):
         self.textBrowser.clear()
 
     def start(self):
-        day = self.dateEdit
+        day = QDateEdit
+        print(QDateEdit)
+        type(day)
         for i in range(0, len(df_date)):
             if day == df_date[i]:
                 return df_yhat[i]
