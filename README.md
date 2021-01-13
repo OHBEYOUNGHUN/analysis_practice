@@ -2,5 +2,5 @@
 ## 유기농 아보카도 가격 시계열 분석
 ---
 ### 파이썬 prophet 
-###tkinter gui 구현
+### tkinter gui 구현
 ---
